@@ -3,7 +3,7 @@ For gaining familiarity with HTML, CSS, Bootstrap and JavaScript as well as AWS,
 
 After run the website locally, uploaded my files to S3 Bucket on AWS. Next, sshed into the EC2 instance from my mac terminal, installed httpd and fetched files from the bucket. 
 
-Website is feeding live TFL data regarding the tube lines' current status. Fetching the relevant information using JavaScript GET request from relevant official TFL RESTful API(https://api-portal.tfl.gov.uk/docs).
+Website is feeding live Transport for London (TFL) data regarding the tube lines' current status. Fetching the relevant information using JavaScript GET request from relevant official TFL RESTful API(https://api-portal.tfl.gov.uk/docs).
 
 
 
